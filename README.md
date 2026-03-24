@@ -1,6 +1,8 @@
 # DiskTester
 
 一个用 SwiftUI 实现的 macOS 原生磁盘测速 MVP。
+<img width="1483" height="970" alt="image" src="https://github.com/user-attachments/assets/4578876e-dfd5-40d9-9e48-24a83b9e7d26" />
+
 
 当前版本已经支持：
 
